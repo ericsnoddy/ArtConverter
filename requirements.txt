@@ -1,0 +1,4 @@
+numba==0.56.4
+numpy==1.23.1
+opencv-python==4.6.0.66
+pygame==2.1.2
